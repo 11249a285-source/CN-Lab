@@ -1,4 +1,4 @@
-#echo server
+#Echo server
 import socket
 def echo_server():
 try:
@@ -45,8 +45,7 @@ server_socket.close()
 if __name__ == &#39;__main__&#39;:
 echo_server()
 
-#Python Code:
-#b,Echo Client:
+#Echo Client:
 import socket
 
 def echo_client():
