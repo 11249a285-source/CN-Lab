@@ -1,3 +1,4 @@
+#Server
 import socket
 
 def file_transfer_server():
@@ -64,8 +65,7 @@ if __name__ == '__main__':
 
 file_transfer_server()
 
-Client
-
+#Client
 import socket
 
 import os
